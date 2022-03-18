@@ -1,1 +1,1 @@
-git pull --rebase origin
+git merge <branch_name>
